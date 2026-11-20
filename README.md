@@ -42,7 +42,6 @@ Yamayı dilediğiniz zaman kaldırmak için:
 ├── Yamayi_Kur.bat           # Tek tıkla Türkçe yama kurulumu (YAF)
 ├── Yamayi_Kaldir.bat        # Tek tıkla orijinal haline dönüş
 ├── Yama_Menusu.bat          # Etkileşimli yönetim menüsü
-├── install_patch.ps1        # Açık kaynak PowerShell kurucu betiği
 ├── BeniOku.txt              # Kullanıcı bilgilendirme notu
 ├── Gorseller/               # Oyun logosu ve ikon
 └── Yama_Dosyalari/          # Türkçe metin ve font AssetBundle paketleri
