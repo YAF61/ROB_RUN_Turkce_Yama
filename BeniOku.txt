@@ -1,0 +1,26 @@
+ROB RUN - Türkçe Yama (YAF Sürümü & Güvenli Kurulum)
+=============================================================
+
+Çeviri Düzenleme ve Kurulum: YAF
+Bu yama, Easy Anti-Cheat (EAC) korumasını tetiklemeden oyunun Türkçe oynanabilmesi
+için özel olarak hazırlanmıştır. Oyun ana dizinine müdahale edilmez.
+Kurulum için PYTHON, .EXE veya herhangi bir ek yazılım gerekmez. %100 açık kaynak .bat komutlarıyla çalışır.
+
+KURULUM:
+--------
+- "Yamayi_Kur.bat" dosyasına çift tıklayın.
+(Veya seçenekli menü için "Yama_Menusu.bat" dosyasını açıp [1]'e basabilirsiniz).
+
+Otomatik olarak Steam kütüphanenizdeki ROB RUN tespit edilecek ve yama kurulacaktır.
+"ROB RUN Türkçe Yama (YAF Sürümü) başarıyla kuruldu" yazısını gördükten sonra oyunu Steam'den başlatabilirsiniz.
+
+KALDIRMA (Orijinal Haline Dönüş):
+---------------------------------
+- "Yamayi_Kaldir.bat" dosyasına çift tıklayın. Oyun anında orijinal İngilizce haline döner.
+
+GÜVENLİK VE ÇEVİRİ DETAYLARI:
+-----------------------------
+- .EXE dosyası içermez; tüm kodlar metin tabanlı açık kaynak batch/PowerShell komutlarıdır.
+- EAC dosya bütünlüğü denetimlerini bozmaz (Orijinal oyun dosyaları değiştirilmez).
+- Yükleme ekranlarındaki yazım hataları, eksik karakterler ve sistem metinleri YAF tarafından düzeltilmiştir.
+- Tamamen temiz, reklamsız ve açık kaynaklıdır.

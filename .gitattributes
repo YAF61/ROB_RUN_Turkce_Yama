@@ -1,0 +1,20 @@
+# Windows script line endings
+*.bat text eol=crlf
+*.cmd text eol=crlf
+*.ps1 text eol=crlf
+
+# Standard text
+*.md text eol=auto
+*.txt text eol=auto
+*.py text eol=auto
+*.json text eol=auto
+.gitignore text eol=auto
+.gitattributes text eol=auto
+
+# Binary files
+*.bundle binary
+*.bin binary
+*.hash binary
+*.png binary
+*.ico binary
+*.zip binary
